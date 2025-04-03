@@ -43,3 +43,12 @@ tzdata==2024.1
 urllib3==2.2.2
 watchdog==4.0.1
 XlsxWriter==3.2.0
+mysql-connector-python==8.1.0
+mysqlclient==2.1.1
+mysql-connector==2.2.9
+mysql-connector-repackaged==2.2.9
+mysql-connector-python-rf==8.1.0
+mysql-connector-python-rf-repackaged==8.1.0
+mysql-connector-python-rf-repackaged==8.1.0
+mysql-connector-python-rf-repackaged==8.1.0
+mysql-connector-python-rf-repackaged==8.1.0
